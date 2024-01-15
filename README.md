@@ -62,5 +62,5 @@ This work inherites the [MIT](https://opensource.org/licenses/MIT) license.
 The decision records in the `decision` directory are sublicensed under the BSD 3-Clause license. 
 
 ```yaml
-SPDX-License-Identifier: MIT OR CC0-1.0
+SPDX-License-Identifier: MIT
 ```
