@@ -58,9 +58,8 @@ In case you get errors regarding `Gemfile.lock`, just delete `Gemfile.lock` and 
 
 ## License
 
-This work is dual-licensed under [MIT](https://opensource.org/licenses/MIT) and
-[CC0](https://creativecommons.org/share-your-work/public-domain/cc0/).
-You can choose between one of them if you use this work.
+This work inherites the [MIT](https://opensource.org/licenses/MIT) license. 
+The decision records in the `decision` directory are sublicensed under the BSD 3-Clause license. 
 
 ```yaml
 SPDX-License-Identifier: MIT OR CC0-1.0
